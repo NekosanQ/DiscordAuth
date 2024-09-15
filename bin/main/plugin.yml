@@ -1,0 +1,4 @@
+name: DiscordAuth
+version: "${version}"
+main: net.nekosanq.discordauth.DiscordAuth
+author: nekosanq

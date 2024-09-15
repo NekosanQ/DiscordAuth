@@ -1,0 +1,84 @@
+# ユーザー固有のファイル
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# 生成されたファイル
+.idea/**/contentModel.xml
+
+# センシティブまたは頻繁に変更されるファイル
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# GradleとMavenの自動インポート
+# GradleまたはMavenの自動インポートを使用する場合、モジュールファイルは再生成されるため、除外する必要があります。自動インポートを使用する場合はコメントを解除してください。
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+
+# CMake
+cmake-build-*/
+
+# Mongo Explorerプラグイン
+.idea/**/mongoSettings.xml
+
+# ファイルベースのプロジェクト形式
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-ideaプラグイン
+.idea_modules/
+
+# JIRAプラグイン
+atlassian-ide-plugin.xml
+
+# Cursive Clojureプラグイン
+.idea/replstate.xml
+
+# Crashlyticsプラグイン（Android StudioおよびIntelliJ用）
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# エディターベースのRest Client
+.idea/httpRequests
+
+# Android Studio 3.1以降のシリアライズキャッシュファイル
+.idea/caches/build_file_checksums.ser
+
+.idea/
+
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
+
+### Gradle ###
+.gradle
+/build/
+
+# Gradle GUI設定を無視
+gradle-app.setting
+
+# Gradleラッパーjarファイルを無視しない（通常.jarファイルは無視されます）
+!gradle-wrapper.jar
+
+# プロジェクトのキャッシュ
+.gradletasknamecache
+
+### Gradle Patch ###
+**/build/

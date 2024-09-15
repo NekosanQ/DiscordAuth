@@ -1,0 +1,8 @@
+database:
+  url: "url"
+  user: "root"
+  password: "password"
+
+discord:
+  token: "YOUR_DISCORD_BOT_TOKEN"
+  channel_id: "YOUR_DISCORD_CHANNEL_ID"
